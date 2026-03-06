@@ -1,2 +1,4 @@
-# ModelHub
-Research project for running and accelerating LLM/LMM inference
+# ModelHub Roadmap
+## Create a simple framework to run any LLMs.
+## Introduce new Method to accelerate the inference of LLMs.
+## Support the inference of LMMs.
